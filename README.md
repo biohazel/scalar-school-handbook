@@ -4,38 +4,40 @@ Welcome to the repository for **Bitcoin Technology Foundations and Career Paths*
 
 ## Table of Contents
 
-1. [Why Bitcoin Matters](#why-bitcoin-matters)
-2. [Bitcoin and Cryptography](#bitcoin-and-cryptography)
-3. [Transactions](#transactions)
-4. [P2P Network](#p2p-network)
-5. [Mining](#mining)
-6. [Bitcoin Core](#bitcoin-core)
-7. [BIPS—Bitcoin Improvement Proposals](#bips-bitcoin-improvement-proposals)
-8. [RPC API do Bitcoin Core](#rpc-api-do-bitcoin-core)
-9. [Lightning Network](#lightning-network)
-10. [Freedom Technologies](#freedom-technologies)
-11. [Career in Free and Open Source Software Development](#career-in-free-and-open-source-software-development)
-12. [Bitcoin is For Everyone](#bitcoin-is-for-everyone)
-13. [Powered By Bitcoin](#powered-by-bitcoin)
-14. [Final Notes](#final-notes)
+1. Why Bitcoin Matters
+2. Bitcoin and Cryptography
+3. Transactions
+4. P2P Network
+5. Mining
+6. Bitcoin Core
+7. BIPS—Bitcoin Improvement Proposals
+8. RPC API do Bitcoin Core
+9. Lightning Network
+10. Freedom Technologies
+11. Career in Free and Open Source Software Development
+12. Bitcoin is For Everyone
+13. Powered By Bitcoin
+14. Final Notes
 
-# Tecnologia Bitcoin Fundamentos e Trilhas de Carreira
+---
 
-Bem-vindo ao repositório de **Fundamentos da Tecnologia Bitcoin e Caminhos de Carreira**. Este recurso tem como objetivo fornecer um guia básico para entender a tecnologia Bitcoin e as várias oportunidades de carreira disponíveis na área. O livro foi projetado para atender tanto iniciantes quanto profissionais experientes que desejam aprofundar seus conhecimentos no ecossistema FOSS do Bitcoin e explorar caminhos de carreira neste domínio empolgante.
+# Fundamentos da Tecnologia Bitcoin e Caminhos de Carreira
+
+Bem-vindo ao repositório de **Fundamentos da Tecnologia Bitcoin e Caminhos de Carreira**. Este recurso tem como objetivo fornecer um guia básico para entender a tecnologia Bitcoin e as várias oportunidades de carreira disponíveis na área. O livro foi projetado para atender tanto iniciantes quanto profissionais experientes que desejam aprofundar seus conhecimentos no ecossistema open source do Bitcoin e explorar caminhos de carreira neste domínio cheio de desafios e recompensas.
 
 ## Índice
 
-1. [Por Que o Bitcoin Importa](#por-que-o-bitcoin-importa)
-2. [Bitcoin e Criptografia](#bitcoin-e-criptografia)
-3. [Transações](#transações)
-4. [Rede P2P](#rede-p2p)
-5. [Mineração](#mineração)
-6. [Bitcoin Core](#bitcoin-core)
-7. [BIPS—Propostas de Melhoria do Bitcoin](#bips-propostas-de-melhoria-do-bitcoin)
-8. [RPC API do Bitcoin Core](#rpc-api-do-bitcoin-core)
-9. [Lightning Network](#lightning-network)
-10. [Tecnologias de Liberdade](#tecnologias-de-liberdade)
-11. [Carreira em Desenvolvimento de Software Livre e de Código Aberto](#carreira-em-desenvolvimento-de-software-livre-e-de-código-aberto)
-12. [Bitcoin é Para Todos](#bitcoin-é-para-todos)
-13. [Impulsionado Pelo Bitcoin](#impulsionado-pelo-bitcoin)
-14. [Notas Finais](#notas-finais)
+1. Por Que o Bitcoin Importa
+2. Bitcoin e Criptografia
+3. Transações
+4. Rede P2P
+5. Mineração
+6. Bitcoin Core
+7. BIPS—Propostas de Melhoria do Bitcoin
+8. RPC API do Bitcoin Core
+9. Lightning Network
+10. Tecnologias de Liberdade
+11. Carreira em Desenvolvimento de Software Livre e de Código Aberto
+12. Bitcoin é Para Todos
+13. Impulsionado Pelo Bitcoin
+14. Notas Finais
