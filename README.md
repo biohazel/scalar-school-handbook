@@ -21,7 +21,7 @@ Welcome to the repository for **Bitcoin Technology Foundations and Career Paths*
 
 ---
 
-# Fundamentos da Tecnologia Bitcoin e Caminhos de Carreira
+# Fundamentos da Tecnologia Bitcoin e Trilhas de Carreira
 
 Bem-vindo ao repositório de **Fundamentos da Tecnologia Bitcoin e Caminhos de Carreira**. Este recurso tem como objetivo fornecer um guia básico para entender a tecnologia Bitcoin e as várias oportunidades de carreira disponíveis na área. O livro foi projetado para atender tanto iniciantes quanto profissionais experientes que desejam aprofundar seus conhecimentos no ecossistema open source do Bitcoin e explorar caminhos de carreira neste domínio cheio de desafios e recompensas.
 
