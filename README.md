@@ -39,5 +39,5 @@ Bem-vindo ao repositório de **Fundamentos da Tecnologia Bitcoin e Caminhos de C
 10. Tecnologias de Liberdade
 11. Carreira em Desenvolvimento de Software Livre e de Código Aberto
 12. Bitcoin é Para Todos
-13. Impulsionado Pelo Bitcoin
+13. Powered By Bitcoin
 14. Notas Finais
