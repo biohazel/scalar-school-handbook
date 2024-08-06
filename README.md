@@ -1,3 +1,5 @@
+
+
 # Bitcoin Technology Foundations and Career Paths
 
 Welcome to the repository for **Bitcoin Technology Foundations and Career Paths**. This resource aims to provide a basic guide to understanding Bitcoin technology and the various career opportunities available in the field. The book is designed to cater to both beginners and experienced professionals who wish to deepen their knowledge of the Bitcoin FOSS ecosystem and explore career paths in this exciting domain.
